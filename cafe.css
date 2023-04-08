@@ -715,12 +715,14 @@ height: 10vh;*/
         width: 130%;
         margin-left: -15vw;
         margin-top: -50vh;
+        z-index: 5;
     }
 
     #radio {
         height: 30vh;
         width: 50%;
         margin-left: 0;
+        z-index: 5;
     }
 
 
