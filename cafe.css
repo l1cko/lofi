@@ -336,14 +336,16 @@ body {
     font-family: "Bebas Neue";
     font-size: 6vh;
     margin: 0px 0px 1vh 0vw;
-    z-index: 3;
+    z-index: 5;
+    color: black;
 }
 
 #t2 {
     font-family: "Cascadia Mono";
     font-size: 15vh;
     margin: 0vh 0px 1.5vh 0vw;
-    z-index: 3;
+    z-index: 5;
+    color: black;
 }
 
 #placeholder {
